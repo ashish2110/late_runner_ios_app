@@ -1,0 +1,6 @@
+framework module Pods_Late_Runner {
+  umbrella header "Pods-Late_Runner-umbrella.h"
+
+  export *
+  module * { export * }
+}

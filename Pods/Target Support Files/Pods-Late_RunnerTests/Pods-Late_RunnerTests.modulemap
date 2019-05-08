@@ -1,0 +1,6 @@
+framework module Pods_Late_RunnerTests {
+  umbrella header "Pods-Late_RunnerTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

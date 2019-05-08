@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>617347084806-ni2s5ipr1jdtnle0m1q6mbqs1m8mem60.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.617347084806-ni2s5ipr1jdtnle0m1q6mbqs1m8mem60</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBmSpeM8Nxxvm8BPELgPR4YUKfMwF3kOQg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>617347084806</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>ashish.Late-Runner</string>
+	<key>PROJECT_ID</key>
+	<string>laterunner-5ee16</string>
+	<key>STORAGE_BUCKET</key>
+	<string>laterunner-5ee16.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:617347084806:ios:4965087b99d87fad</string>
+	<key>DATABASE_URL</key>
+	<string>https://laterunner-5ee16.firebaseio.com</string>
+</dict>
+</plist>
